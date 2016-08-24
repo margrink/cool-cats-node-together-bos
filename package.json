@@ -12,9 +12,12 @@
   },
   "keywords": [],
   "author": "",
-  "license":"MIT",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/margrink/cool-cats-node-together-bos/issues"
   },
-  "homepage": "https://github.com/margrink/cool-cats-node-together-bos#readme"
+  "homepage": "https://github.com/margrink/cool-cats-node-together-bos#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
